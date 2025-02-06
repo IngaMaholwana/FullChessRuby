@@ -46,6 +46,30 @@ class Board
     (0..7).each { |col| @board[6][col] = Piece.new(:white, :pawn) }
   end
 
+
+  
+
+  # def check_winner(symbol)
+  #   # Check rows
+  #   @board.each do |row|
+  #     return true if row.all? { |cell| cell == symbol }
+  #   end
+
+  #   # Check columns
+  #   @board.transpose.each do |column|
+  #     return true if column.all? { |cell| cell == symbol }
+  #   end
+
+  #   # Check diagonals
+  #   return true if [@board[0][0], @board[1][1], @board[2][2]].all? { |cell| cell == symbol }
+  #   return true if [@board[0][2], @board[1][1], @board[2][0]].all? { |cell| cell == symbol }
+
+  #   false
+  # end
+
+  # def check_tie
+  #   @board.all? { |row| row.none? { |cell| cell == " " } }
+  # end
 end
 
 board = Board.new
