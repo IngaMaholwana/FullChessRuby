@@ -1,0 +1,1 @@
+#the knight moves moves 3 spots and then  1 dioganal

@@ -1,0 +1,1 @@
+#the pawns 1st move can move 2 space the 1 space ahead . block it by infront attacks on diagonal left or right 1 space

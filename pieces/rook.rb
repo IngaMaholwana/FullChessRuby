@@ -1,0 +1,1 @@
+#the castle or rook can move as far ahead to the front of it and to the left and right horizontal and vertically on a 2d plan

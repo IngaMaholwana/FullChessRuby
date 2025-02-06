@@ -1,0 +1,1 @@
+#the queen anyspace on the board is hers can go any where

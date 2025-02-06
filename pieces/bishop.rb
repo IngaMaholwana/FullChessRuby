@@ -1,0 +1,1 @@
+#the bishop moves in diagonals to space in the board

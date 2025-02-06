@@ -1,0 +1,1 @@
+#can lose this piece game over moves 1space at a time
