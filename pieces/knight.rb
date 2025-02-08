@@ -10,5 +10,9 @@ class Knight
     @possible_moves = []
   end
   
+  def moves
+    
+  end
+  
 
 end

@@ -10,5 +10,9 @@ class Rook
     @possible_moves = []
   end
   
+  def moves
+    
+  end
+  
 
 end

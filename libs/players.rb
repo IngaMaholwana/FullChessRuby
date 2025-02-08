@@ -2,7 +2,7 @@ class PlayerChoice
   attr_reader :choice
 
   def initialize(choice)
-    @choice = choice
+    @color = choice
   end
 
   def valid?

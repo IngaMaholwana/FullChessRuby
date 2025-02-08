@@ -9,6 +9,11 @@ class Pawns
     @board = board
     @possible_moves = []
   end
+
+  def moves
+    
+  end
+  
   
 
 end
