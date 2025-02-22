@@ -10,7 +10,7 @@ class Pawns
     @possible_moves = []
   end
 
-  def moves
+  def moves #the pawns move 2 spaces at 1st then 1 till the end
     
   end
   
