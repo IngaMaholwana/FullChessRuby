@@ -45,3 +45,8 @@ Additionally, the game includes a number of quality of life functions including 
 Capstone project from The Odin Project, providing the opportunity to implement everything learned through the Ruby section of the curriculum (e.g., working with basic data types, OOP and design, serialization, testing and TDD).
 
 Beyond the technical aspects, this project provided the opportunity to get experience working with and solving a broadly scoped problem (final project did not provide any details on implementation). As such, I was required to think through the problem and implementation, maintain a disciplined workflow (utilizing git to safely experiment), stay organized, and break the problem down into workable components.
+
+
+## Help for game play
+ingamaholwana@pop-os:~/Documents/FullChessRuby$ ruby lib/main.rb
+when prompted select the a2 (dont say pawn) the will be highlighted in yellow then move to a2 or 3 pawn has completed the move and so on. 
